@@ -1,0 +1,1 @@
+Plugin documentation: http://webnpro.com/documentation/webnpro-ucm-plugin-menu-editor/

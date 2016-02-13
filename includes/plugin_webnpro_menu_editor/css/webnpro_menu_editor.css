@@ -1,0 +1,10 @@
+.tbl_row {
+    text-align: center;
+}
+
+.tbl_row input[type="text"] {
+  padding: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+

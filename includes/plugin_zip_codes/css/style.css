@@ -1,0 +1,24 @@
+
+body{font-size:90%;font-family:Arial;background:url('../images/bg.jpg')}
+p{}
+form{}
+label{padding:10px 0px;width:300px;display:block;}
+input[type=text]{-moz-border-radius:3px 3px 3px 3px;background:none repeat scroll 0 0 #FEFEFE;border:1px solid #BBBBBB;color:#333333;font-family:"Lucida Grande",Verdana,sans-serif;font-size:14px;outline:medium none;padding:7px;vertical-align:middle;width:410px;border-radius:3px;-webkit-border-radius: 3px;}
+select{width:410px;background:none repeat scroll 0 0 #FEFEFE;-moz-border-radius:3px 3px 3px 3px;border-radius:3px;-webkit-border-radius: 3px;outline:medium none;padding:7px;font-family:"Lucida Grande",Verdana,sans-serif;border:1px solid #BBBBBB;height:32px;}
+.clear{clear:both;}
+#actions{text-align:right;padding:20px 0px 0px;}
+
+.panel{background:url('../images/bnds.gif') no-repeat scroll transparent center bottom;width:470px;margin:10px;padding-bottom:5px;}
+.panel-header{background:url("../images/bheads.gif") repeat-y scroll center top transparent;height:54px;overflow:hidden;padding:0 20px;}
+.panel-header h1{font-size:1.3em;margin-top:16px;}
+.panel-content{background:url("../images/bbgs.gif") repeat-y scroll center top transparent;padding:20px;}
+.helptext{font-size:.8em;color:#A5A5A5;text-align:right;padding-right:10px}
+
+ul#result-list{list-style:none;margin:0px;padding-left:10px}
+
+ul#result-list li{display:inline;margin-left:10px}
+ul#result-list li div.row{float:left;width:200px;padding:10px;background-color:#FFFFFF;border:1px solid #e4e4e4;}
+.error{background-color:#E41148;padding:10px;width:400px;color:#FFFFFF;margin-left:10px}
+
+.rc5{-moz-border-radius: 5px;-webkit-border-radius: 5px;border:none;border-radius:5px}
+.rc3{-moz-border-radius: 3px;-webkit-border-radius: 3px;border:none;border-radius:3px}

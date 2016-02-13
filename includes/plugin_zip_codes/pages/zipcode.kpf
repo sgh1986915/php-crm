@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="7970e10b-e700-8b42-8623-bd37433fa320" kpf_version="4" name="zipcode.kpf">
+<preference-set idref="7970e10b-e700-8b42-8623-bd37433fa320">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
